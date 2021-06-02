@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @TheRealChrisWilliams
-- 👀 I’m interested in game development and design.
-- 🌱 I’m currently learning Unity.
+Hi, my name is Chris Williams.
+I am interested in game development, game design and AI. 
+Currently learning Unity and Python.
 
 <!---
 TheRealChrisWilliams/TheRealChrisWilliams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
