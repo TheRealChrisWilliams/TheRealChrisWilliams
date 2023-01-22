@@ -4,7 +4,7 @@
 
 # Welcome to my GitHub.
 
-## The road ahead is long and treachourous, here take this: *ChatGPT*
+## The road ahead is long and treacherous, here take this: *ChatGPT*
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/chris-williams-767b1a217/">
