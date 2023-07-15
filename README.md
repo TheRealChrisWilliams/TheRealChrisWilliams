@@ -1,6 +1,10 @@
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 
+<h1>
+  Hi, my name is Chris Williams.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 # Welcome to my GitHub.
 
@@ -18,10 +22,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?usernameTheRealChrisWilliams&style=flat-square&color=blue" alt=""/>
 
-<h1>
-  Hi, my name is Chris Williams.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 ### I am interested in game development, game design and AI. 
 ### Currently learning Unreal Engine and Python.
