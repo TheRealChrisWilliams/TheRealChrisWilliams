@@ -6,7 +6,7 @@
 
 ## The road ahead is long and treacherous, here take this: *ChatGPT*
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=therealchriswilliams)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=therealchriswilliams&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/chris-williams-767b1a217/">
