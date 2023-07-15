@@ -6,6 +6,8 @@
 
 ## The road ahead is long and treacherous, here take this: *ChatGPT*
 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=therealchriswilliams)](https://github.com/anuraghazra/github-readme-stats)
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/chris-williams-767b1a217/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
